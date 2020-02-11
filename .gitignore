@@ -1,0 +1,9 @@
+.vscode
+dist
+node_modules
+.envrc
+.eslintrc.json
+.prettierrc
+*.sh
+yarn-error.log
+
